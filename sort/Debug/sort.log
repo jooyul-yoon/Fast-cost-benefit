@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\dbswn\source\repos\sort\sort\minheap.h(62): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\minheap.h(64): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\minheap.h(68): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\minheap.h(87): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\minheap.h(104): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\minheap.h(106): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(62): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(97): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(123): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(158): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(181): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(196): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(197): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\dbswn\source\repos\sort\sort\source.cpp(198): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+  sort.vcxproj -> C:\Users\dbswn\source\repos\sort\Debug\sort.exe
